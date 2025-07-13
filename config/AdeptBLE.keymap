@@ -53,7 +53,7 @@
       display-name = "Default";
       bindings = <
         &ltm BLTH MB4 &ltm DEVICE MB5 &mkp MCLK &lth SCRLM RCLK
-        &mkp LCLK                               &mto SNIPE SCLM
+        &mkp LCLK                               &mto SNIPE SCRLM
       >;
     };
     scroll_tap_layer {
